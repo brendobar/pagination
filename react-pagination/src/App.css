@@ -1,0 +1,29 @@
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* PostList.css */
+.post-list {
+  margin-top: 20px;
+}
+
+.load-more {
+  cursor: pointer;
+  margin-top: 20px;
+  text-align: center;
+  color: blue;
+}
+
+/* Post.css */
+.post {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.post:hover {
+  background-color: #f0f0f0;
+}
